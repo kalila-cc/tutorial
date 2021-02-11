@@ -1,6 +1,6 @@
-# 油猴插件安装(免翻墙) (Tampermonkey Installer)
-一个由于许多朋友不太会科学上网（也就是俗称的翻墙）而开发的简单的油猴安装教程（免翻墙）<br/>
-若在本教程出现解压压缩包失败或解压出的文件夹为空的情况，请下载专业解压缩软件后进行解压缩，推荐下载[360压缩]( https://yasuo.360.cn/ )<br/>
+### Tampermonkey-installation-tuterial
+油猴插件安装教程 (免翻墙)<br/>
+由于许多朋友不太会科学上网（即翻墙），特地写了一个简单的油猴插件安装教程。<br/>
 
 ### 油猴插件安装教程
 1. [点击下载 Tampermonkey 插件压缩包]( https://www.pcsoft.com.cn/down/194293?module=soft )
