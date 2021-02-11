@@ -1,6 +1,6 @@
-# 傻瓜式配置 C/C++/VSCode (for Windows 10)
-一个傻瓜式配置C/C++/VSCode 的编译运行环境的教程。<br/>
-若在本教程出现解压压缩包失败或解压出的文件夹为空的情况，请下载专业解压缩软件后进行解压缩，推荐下载[360压缩](https://yasuo.360.cn/)<br/>
+# VSCode-configuration-tuterial
+傻瓜式配置 VSCode 的 C/C++ 环境 (for Windows 10)<br/>
+由于配置`VSCode`的过程较为麻烦，为了快速配置`C/C++`环境，特地写了一个傻瓜式配置`VSCode`的`C/C++`编译运行环境的教程<br/>
 
 ### 观前提示
 请先将本项目[下载](https://github.com/kalila-cc/tutorial/archive/master.zip)下来并解压，解压后找到名为 `VSCode-Configuration-tuterial` 的文件夹，以下简称项目文件夹。
