@@ -1,16 +1,14 @@
-## 傻瓜式配置 C/C++/VSCode (for Windows 10)
-
-> 一个傻瓜式配置C/C++/VSCode 的编译运行环境的教程
-
-> 若在本教程出现解压压缩包失败或解压出的文件夹为空的情况，请下载专业解压缩软件后进行解压缩，推荐下载[360压缩]( https://yasuo.360.cn/ )
+# 傻瓜式配置 C/C++/VSCode (for Windows 10)
+一个傻瓜式配置C/C++/VSCode 的编译运行环境的教程。<br/>
+若在本教程出现解压压缩包失败或解压出的文件夹为空的情况，请下载专业解压缩软件后进行解压缩，推荐下载[360压缩](https://yasuo.360.cn/)<br/>
 
 ### 观前提示
-请先将本项目[下载]( https://github.com/kalilacc/VSCode-Installer/archive/main.zip )下来并解压，解压后找到名为 `VSCode-Configuration-tuterial` 的文件夹，以下简称项目文件夹。
+请先将本项目[下载](https://github.com/kalila-cc/tutorial/archive/master.zip)下来并解压，解压后找到名为 `VSCode-Configuration-tuterial` 的文件夹，以下简称项目文件夹。
 
 ### 下载资源
 
-1. [点击下载 **mingw-w64**]( https://udomain.dl.sourceforge.net/project/mingw-w64/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z )，将下载所得压缩包**解压为同名文件夹**(不是解压到当前文件夹!)，并重命名该文件夹为 `mingw-w64`，将其移动至**D盘根目录**，随后删除该下载所得的压缩包
-2. [点击下载 **VSCode**]( https://aka.ms/win32-x64-user-stable )，双击运行下载所得的 `.exe` 程序，并傻瓜式点击下一步，直至安装完成，随后删除该下载所得的 `.exe` 程序
+1. [点击下载 **mingw-w64**](https://udomain.dl.sourceforge.net/project/mingw-w64/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z)，将下载所得压缩包**解压为同名文件夹**(不是解压到当前文件夹!)，并重命名该文件夹为 `mingw-w64`，将其移动至**D盘根目录**，随后删除该下载所得的压缩包
+2. [点击下载 **VSCode**](https://aka.ms/win32-x64-user-stable)，双击运行下载所得的 `.exe` 程序，并傻瓜式点击下一步，直至安装完成，随后删除该下载所得的 `.exe` 程序
 3. 双击运行项目文件夹内的 `init.exe`，看见 `finished!`表示此步骤成功
 
 ### 安装插件
@@ -39,14 +37,9 @@
 3. 打开 **VSCode**，点击左上角 **"文件"->"打开文件夹"**，找到新建的文件夹（即新建的项目）并打开
 4. 往后随时在该项目文件夹内 **(不要在 `.vscode` 内!)** 新建 `.c` 或 `.cpp` 文件，即可直接编译运行
 
----
-
-**有任何问题可以留言或咨询本人：wxid: cc3071927804**
-
-**了解本人开发的更多作品请[点击这里]( https://github.com/kalilacc/Introduction )**
-
----
-### 欢迎打赏
-+ **欢迎一键三连(好评+打赏+收藏)，你的支持是作者维护下去的最大动力！**
-+ [打赏通道]( https://s1.ax1x.com/2020/11/08/BTeRqe.png )
+### 作者想说
+欢迎关注作者的[GitHub](https://github.com/kalila-cc/HOME)主页，通过主页，你可以：
++ 了解本人的更多作品。
++ 对代码或程序提出任何意见或建议。
++ 联系作者。
 
