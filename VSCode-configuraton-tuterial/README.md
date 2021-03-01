@@ -1,5 +1,5 @@
 # VSCode-configuration-tuterial
-傻瓜式配置 VSCode 的 C/C++ 环境 (for Windows 10)<br/>
+傻瓜式配置`VSCode`的`C/C++`环境 (for Windows 10)<br/>
 由于配置`VSCode`的过程较为麻烦，为了快速配置`C/C++`环境，特地写了一个傻瓜式配置`VSCode`的`C/C++`编译运行环境的教程<br/>
 
 ### 观前提示
