@@ -23,7 +23,7 @@
 推荐一个用于搜索脚本的网站 [Greasy Fork]( https://greasyfork.org/zh-CN )<br/>
 
 ### 作者想说
-欢迎关注作者的[GitHub](https://github.com/kalila-cc/HOME)主页，通过主页，你可以：
+欢迎关注作者的[GitHub](https://github.com/kalila-cc)主页，通过主页，你可以：
 - 了解本人的更多作品
 - 对代码或程序提出任何意见或建议
 - 联系作者
